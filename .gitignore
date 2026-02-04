@@ -1,0 +1,6 @@
+*.lnk
+*.lnk
+__pycache__/
+.current_session
+*.pyc
+.env
